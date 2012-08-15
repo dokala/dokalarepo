@@ -1,0 +1,12 @@
+<aspectj>
+<aspects>
+<aspect name="com.example.petclinic.ui.mvc.VetController_Roo_Controller"/>
+<aspect name="com.example.petclinic.ui.mvc.OwnerController_Roo_Controller"/>
+<aspect name="com.example.petclinic.ui.mvc.PetController_Roo_Controller_Finder"/>
+<aspect name="com.example.petclinic.ui.mvc.VisitController_Roo_Controller_Finder"/>
+<aspect name="com.example.petclinic.ui.mvc.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+<aspect name="com.example.petclinic.ui.mvc.VisitController_Roo_Controller"/>
+<aspect name="com.example.petclinic.ui.mvc.PetController_Roo_Controller"/>
+</aspects>
+</aspectj>
+
